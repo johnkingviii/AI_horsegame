@@ -58,7 +58,7 @@ __Notas:__ Deixar uma linha vazia entre cada tabuleiro; Introduzir os lados do t
 
 ### Outputs
 
-Depois de um jogo ter sido efectuado, será apresentado visualmente todos as jogadas efectuadas até à solução, e de seguida o menu inicial.</p>
+Depois de um jogo ter sido efetuado, será apresentado visualmente todos as jogadas efetuadas até à solução, e de seguida o menu inicial.</p>
 <p><img src="
 
 ![enter image description here](https://lh3.googleusercontent.com/gJEk1yEfui_Gxo30DMFnpHMe1fv3uAIbVTSUl0B3SdwJFqNfuekHxKWCmgas30qEKJEx_XcAs6o" alt="enter image description here"></p>
@@ -113,5 +113,6 @@ O algoritmo A* é um algoritmo de procura <strong>__informada</strong>__, que fa
 <img src="](https://lh3.googleusercontent.com/7qpoLOle51l0yrRLIpBgpmIWxGQXgiZC-9SBmEV36WQZF7SYAMFDnNJbbGqBKlzm61sag0agjBA" alt="enter image description here"></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzcwMjAzNzAsLTQyNzk2MzcwMl19
+eyJoaXN0b3J5IjpbOTg2MjgxNDQwLC0xODc3MDIwMzcwLC00Mj
+c5NjM3MDJdfQ==
 -->
