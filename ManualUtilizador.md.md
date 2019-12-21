@@ -79,12 +79,15 @@ Para além disso serão gravadas as estatísticas e medidas de desempenho num fi
 <li>
   Factor de ramificação média - o número médio de ramos gerados por cada nó</li>
 </ul>
-<h3 id="a
 
-### Algoritmos- de- procura">Algoritmos de procura</h3>
-<p><img src="
-![enter image description here](https://kevhuang.com/content/images/2015/06/tree-traversal.gif" alt="enter image description here"></p>
-<h4 id="breadth-first-search">)
+<h3 id="algoritmos-de-procura
+">Algoritmos de procura</h3>
+
+![Search algoritms](https://kevhuang.com/content/images/2015/06/tree-traversal.gif)
+
+
+
+<h4 id="breadth-first-search">
 
 #### Breadth-first Search</h4>
 <p>
@@ -109,6 +112,6 @@ O algoritmo A* é um algoritmo de procura <strong>__informada</strong>__, que fa
 <img src="](https://lh3.googleusercontent.com/7qpoLOle51l0yrRLIpBgpmIWxGQXgiZC-9SBmEV36WQZF7SYAMFDnNJbbGqBKlzm61sag0agjBA" alt="enter image description here"></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3ODI4NDg4LDIxMTYxNjQ0NTMsLTE4Nz
+eyJoaXN0b3J5IjpbLTEzMzYyNDQxLDIxMTYxNjQ0NTMsLTE4Nz
 cwMjAzNzAsLTQyNzk2MzcwMl19
 -->
