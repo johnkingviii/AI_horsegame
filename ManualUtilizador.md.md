@@ -52,10 +52,12 @@ Para navegar os menus terá de escrever os números pretendidos.</p>
 <p>
 Para adicionar um tabuleiro basta inserir como exemplificado na imagem o novo tabuleiro,  onde este é composto por 10 listas correspondentes às 10 linhas do tabuleiro, cada valor da lista representa a pontuação da respetiva casa.<br>
 <strong>Notas:</strong>
-Deixar uma linha vazia entre cada tabuleiro; Introduzir os lados do tabuleiro em linhas diferentes.</p>
+Deixar uma linha vazia entre cada tabuleiro; Introduzir as 10 linhas do tabuleiro em linhas diferentes.</p>
+
 <h3 id="outputs">Outputs</h3>
+
 <p>
-Depois de um jogo ter sido efetuado, será apresentado visualmente todos as jogadas efetuadas até à solução, e de seguida o menu inicial.</p>
+Depois de um jogo ser efetuado, serão apresentadas todas as casas onde  efetuadas até à solução, e de seguida o menu inicial.</p>
 
 <p><img src="
 
@@ -111,6 +113,6 @@ O algoritmo A* é um algoritmo de procura <strong>__informada</strong>__, que fa
 <img src="](https://lh3.googleusercontent.com/7qpoLOle51l0yrRLIpBgpmIWxGQXgiZC-9SBmEV36WQZF7SYAMFDnNJbbGqBKlzm61sag0agjBA" alt="enter image description here"></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2MjM4OTU3LC0xODc3MDIwMzcwLC00Mj
-c5NjM3MDJdfQ==
+eyJoaXN0b3J5IjpbLTE0MDAzOTgwOTcsLTE4NzcwMjAzNzAsLT
+QyNzk2MzcwMl19
 -->
