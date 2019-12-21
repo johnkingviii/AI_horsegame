@@ -68,9 +68,7 @@ Para além disso serão gravadas as estatísticas e medidas de desempenho num fi
 
 <p><strong>Notas:</strong></p>
 <ul>
-<li>)
-
-__Notas:__
+<li>
  - Número de nós gerados - número total de possíveis jogadas geradas</li>
 <li>
  - Número de nós expandidos - número de tabuleiros onde se exploraram as jogadas possíveis</li>
@@ -111,6 +109,6 @@ O algoritmo A* é um algoritmo de procura <strong>__informada</strong>__, que fa
 <img src="](https://lh3.googleusercontent.com/7qpoLOle51l0yrRLIpBgpmIWxGQXgiZC-9SBmEV36WQZF7SYAMFDnNJbbGqBKlzm61sag0agjBA" alt="enter image description here"></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTIzNzYxMzEsLTE4NzcwMjAzNzAsLT
-QyNzk2MzcwMl19
+eyJoaXN0b3J5IjpbMjExNjE2NDQ1MywtMTg3NzAyMDM3MCwtND
+I3OTYzNzAyXX0=
 -->
