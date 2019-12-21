@@ -45,7 +45,7 @@ Recomenda-se a utilização do IDE lispWorks. Para iniciar o programa deve compi
 <p>
 Para navegar os menus terá de escrever os números pretendidos.</p>
 
-<h3 id="input">Input</h3>Além do início do programa através da função star</em>*, todo o input directo no programa é efectuado apenas com os algarismos correspondentes ás acções do menu actual./pp contudo, possvel adicionar mais tabuleiros ao programa através do ficheiro <em>*problemas.dat</em>*, o ficheiro pode ser aberto como um <em>txt</em>*txt* com o seguinte aspecto:</p>
+<h3 id="input">Input</h3>Além do início do programa através da função start</em>*, todo o input directo no programa é efectuado apenas com os algarismos correspondentes ás acções do menu actual. Contudo, é possível adicionar mais tabuleiros ao programa através do ficheiro <em>*problems.dat</em>*, o ficheiro pode ser aberto como *txt*com o seguinte aspecto:</p>
 
 <p><img src="
 
@@ -115,5 +115,5 @@ O algoritmo A* é um algoritmo de procura <strong>__informada</strong>__, que fa
 <img src="](https://lh3.googleusercontent.com/7qpoLOle51l0yrRLIpBgpmIWxGQXgiZC-9SBmEV36WQZF7SYAMFDnNJbbGqBKlzm61sag0agjBA" alt="enter image description here"></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzk2MzcwMl19
+eyJoaXN0b3J5IjpbMzQwNzkzNzY3LC00Mjc5NjM3MDJdfQ==
 -->
