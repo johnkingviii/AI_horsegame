@@ -50,7 +50,7 @@ Para navegar os menus terá de escrever os números pretendidos.</p>
 ![Tabuleiros](https://lh3.googleusercontent.com/VmiQ5pnfqjlqmTzzaZRhg7LF02mwZoul8UUDHjWHScpYYpshXVLlbpW52SH23xI5NcK6v9sJscovs-o-ytticXpW8E8A0GDvrp0BqxDEpLn7f9BJYPPcbq2Aq4kMhcWLKoSqqCncSFBNvtOvsrPrVVB4hCGuUllGOCreAwbpHLH4AP90Tlyw9ma3E6VnZCQ8dTphTVl6jsv2X--4bWqq4bYPIDfELTZHeCzJx1VzG3iHcrBsax6V1_UMa8X1bXEWphWZY0JssuDOjqFCTIM9-uUSyyn7uatNpMFcoYkjfyRkEj-4oOAlCzuWH4jbGLxDRYBJE4ceazD_EvQgyPS4IpgkGNTXsCyYA6nbMCZUdU9tj1eiXnw5h_VaHedZe7dRWqLHQkO-28UCA6QhsMqdALS4ZCamebbq289mjuCvSpuZ_JO3r2SUdEifiJ_I4u1MxbOa-2MDv432dnj91GGgOH0BIuN_bg5D6Gkikp9QyYqdGApoozvieNyYmqn386MjISy1sfhPJXohE-8_WCnGA99K83I8d3j9sLhT0PCoaEZOHDx5DxIU_dr_rtv8PPRpR4fAZZNmcQ73wyhVEeJtArEah8E1lJ6H5DxexBEMxVC3xbcafSdSlHjg0NssgXEGpv8GlYYDrkH8TbcVAF7Hoi8pAYHNNnBjZKgHfHUyNXpT19dU=w504-h455-no)
 
 <p>
-Para adicionar um tabuleiro basta inserir como exemplificado na imagem o novo tabuleiro, no formato <code>( &lt;tabuleiro&gt; )</code>`( <tabuleiro> )` onde o tabuleiro é as duas listas correspondentes a cada lado do tabuleiro de jogo.<br>
+Para adicionar um tabuleiro basta inserir como exemplificado na imagem o novo tabuleiro,  onde este é composto por 10 listas correspon.<br>
 <strong>Notas:</strong>
 __Notas:__ Deixar uma linha vazia entre cada tabuleiro; Introduzir os lados do tabuleiro em linhas diferentes.</p>
 <h3 id="outputs">Outputs</h3>
@@ -113,6 +113,6 @@ O algoritmo A* é um algoritmo de procura <strong>__informada</strong>__, que fa
 <img src="](https://lh3.googleusercontent.com/7qpoLOle51l0yrRLIpBgpmIWxGQXgiZC-9SBmEV36WQZF7SYAMFDnNJbbGqBKlzm61sag0agjBA" alt="enter image description here"></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2MjgxNDQwLC0xODc3MDIwMzcwLC00Mj
+eyJoaXN0b3J5IjpbNzQ1MDgxNjM4LC0xODc3MDIwMzcwLC00Mj
 c5NjM3MDJdfQ==
 -->
