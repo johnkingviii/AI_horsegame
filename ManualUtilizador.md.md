@@ -69,15 +69,15 @@ Para além disso serão gravadas as estatísticas e medidas de desempenho num fi
 <p><strong>Notas:</strong></p>
 <ul>
 <li>
- - Número de nós gerados - número total de possíveis jogadas geradas</li>
+  Número de nós gerados - número total de possíveis jogadas geradas</li>
 <li>
- - Número de nós expandidos - número de tabuleiros onde se exploraram as jogadas possíveis</li>
+  Número de nós expandidos - número de tabuleiros onde se exploraram as jogadas possíveis</li>
 <li>
- - Penetrância - quociente entre o comprimento da solução e o número total de nós gerados</li>
+  Penetrância - quociente entre o comprimento da solução e o número total de nós gerados</li>
 <li>
- - Comprimento da solução - número de níveis da árvore do problema desde a raiz até à solução</li>
+  Comprimento da solução - número de níveis da árvore do problema desde a raiz até à solução</li>
 <li>
- - Factor de ramificação média - o número médio de ramos gerados por cada nó</li>
+  Factor de ramificação média - o número médio de ramos gerados por cada nó</li>
 </ul>
 <h3 id="a
 
@@ -109,6 +109,6 @@ O algoritmo A* é um algoritmo de procura <strong>__informada</strong>__, que fa
 <img src="](https://lh3.googleusercontent.com/7qpoLOle51l0yrRLIpBgpmIWxGQXgiZC-9SBmEV36WQZF7SYAMFDnNJbbGqBKlzm61sag0agjBA" alt="enter image description here"></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjE2NDQ1MywtMTg3NzAyMDM3MCwtND
-I3OTYzNzAyXX0=
+eyJoaXN0b3J5IjpbODg3ODI4NDg4LDIxMTYxNjQ0NTMsLTE4Nz
+cwMjAzNzAsLTQyNzk2MzcwMl19
 -->
