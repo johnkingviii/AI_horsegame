@@ -45,9 +45,9 @@ Recomenda-se a utilização do IDE lispWorks. Para iniciar o programa deve compi
 <p>
 Para navegar os menus terá de escrever os números pretendidos.</p>
 
-<h3 id="input">Input</h3>Além do início do programa através da função start</em>, todo o input directo no programa é efectuado apenas com os algarismos correspondentes ás acções do menu actual. Contudo, é possível adicionar mais tabuleiros ao programa através do ficheiro <em>problems.dat</em>, o ficheiro pode ser aberto como <em>txt</em> com o seguinte aspecto:</p>
+<h3 id="input">Input</h3>Além do início do programa através da função <em>start</em>, todo o input directo no programa é efectuado apenas com os algarismos correspondentes ás acções do menu actual. Contudo, é possível adicionar mais tabuleiros ao programa através do ficheiro <em>problems.dat</em>, o ficheiro pode ser aberto como <em>txt</em> com o seguinte aspecto:</p>
 
-
+![Tabuleiros](https://lh3.googleusercontent.com/VmiQ5pnfqjlqmTzzaZRhg7LF02mwZoul8UUDHjWHScpYYpshXVLlbpW52SH23xI5NcK6v9sJscovs-o-ytticXpW8E8A0GDvrp0BqxDEpLn7f9BJYPPcbq2Aq4kMhcWLKoSqqCncSFBNvtOvsrPrVVB4hCGuUllGOCreAwbpHLH4AP90Tlyw9ma3E6VnZCQ8dTphTVl6jsv2X--4bWqq4bYPIDfELTZHeCzJx1VzG3iHcrBsax6V1_UMa8X1bXEWphWZY0JssuDOjqFCTIM9-uUSyyn7uatNpMFcoYkjfyRkEj-4oOAlCzuWH4jbGLxDRYBJE4ceazD_EvQgyPS4IpgkGNTXsCyYA6nbMCZUdU9tj1eiXnw5h_VaHedZe7dRWqLHQkO-28UCA6QhsMqdALS4ZCamebbq289mjuCvSpuZ_JO3r2SUdEifiJ_I4u1MxbOa-2MDv432dnj91GGgOH0BIuN_bg5D6Gkikp9QyYqdGApoozvieNyYmqn386MjISy1sfhPJXohE-8_WCnGA99K83I8d3j9sLhT0PCoaEZOHDx5DxIU_dr_rtv8PPRpR4fAZZNmcQ73wyhVEeJtArEah8E1lJ6H5DxexBEMxVC3xbcafSdSlHjg0NssgXEGpv8GlYYDrkH8TbcVAF7Hoi8pAYHNNnBjZKgHfHUyNXpT19dU=w504-h455-no)
 
 <p>
 Para adicionar um tabuleiro basta inserir como exemplificado na imagem o novo tabuleiro, no formato <code>( &lt;tabuleiro&gt; )</code>`( <tabuleiro> )` onde o tabuleiro é as duas listas correspondentes a cada lado do tabuleiro de jogo.<br>
@@ -113,5 +113,5 @@ O algoritmo A* é um algoritmo de procura <strong>__informada</strong>__, que fa
 <img src="](https://lh3.googleusercontent.com/7qpoLOle51l0yrRLIpBgpmIWxGQXgiZC-9SBmEV36WQZF7SYAMFDnNJbbGqBKlzm61sag0agjBA" alt="enter image description here"></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjE2MTEyNCwtNDI3OTYzNzAyXX0=
+eyJoaXN0b3J5IjpbLTE4NzcwMjAzNzAsLTQyNzk2MzcwMl19
 -->
