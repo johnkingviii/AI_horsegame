@@ -83,10 +83,6 @@ Para além disso serão gravadas as estatísticas e medidas de desempenho num fi
 <h3 id="algoritmos-de-procura
 ">Algoritmos de procura</h3>
 
-![Search algoritms](https://kevhuang.com/content/images/2015/06/tree-traversal.gif)
-
-
-
 <h4 id="breadth-first-search">
 
 #### Breadth-first Search</h4>
@@ -110,6 +106,7 @@ O algoritmo A* é um algoritmo de procura <strong>informada</strong>, que faz us
 
 ![enter image description here](https://lh3.googleusercontent.com/mx3MI-KVVKLBJpgtI8Xr_iqyLLcNpWIppFTUFWLa4axGfqrfJGlVNKj-AO9KuTD1f75q6bVISUSlMlvugM90ET_zI1PgdTPw4e1rn7oTo-ohAUpE-tvorkF9vS8E02weirorVPS1LnS_3B5djuhMq6nwsKBX1sWh32HZPjCBQeZVt5BILN24UP8BPS-YXG9UoMYJPkW7T8DHfFBQ9sUcrNQjHQZFM2M7Za8q7CaNqpk2BVXooRvF6moT9gzT2QdE4re5sCAve7Gg7e3ve13OQy517yBZ0HlNS1Hc2U7tW-aBy_j4Li5ZRqBOQA0Yb-dh59wI5BZOFOGvJWFAM1QgqJJrxHygRNFAH4ofX7YBxgoNKo52ixU76d7Xs6-w-RU9ZhMTBvhvoPE-Lusr3MJACF0AxEoF5hNEZjsRPKtFnHTwKrxjMvzA1zjJGo6ZKQLAz59lHK8-Db3-DZBG4Ysqt3vCERhAoLX60-UDtIIf7Q0AjdHL9iHH-tjxOI2aMgAisegHPAJtiYE7-DIisxDp_Jwv6S-ujg3VcFOIEWiA9oQZw9zQWKs9EQSsaCiLF30QluZryig6EHN_HsTFhxSmAH89sVnrIlY7roZfTrgMiXG1lOv_BkEY6laAU6Jf04bWC5itBrVLNGVqoB702IjU0KcrtlnEUVX7qiGUO_1TdeUJVLNF=w393-h434-no)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDY0NjUwNyw3OTQxMjQ0NzksMjExNj
-E2NDQ1MywtMTg3NzAyMDM3MCwtNDI3OTYzNzAyXX0=
+eyJoaXN0b3J5IjpbLTE5OTk3Njk0MzUsMTMzNDY0NjUwNyw3OT
+QxMjQ0NzksMjExNjE2NDQ1MywtMTg3NzAyMDM3MCwtNDI3OTYz
+NzAyXX0=
 -->
