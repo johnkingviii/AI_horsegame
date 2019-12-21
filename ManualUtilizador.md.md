@@ -47,9 +47,7 @@ Para navegar os menus terá de escrever os números pretendidos.</p>
 
 <h3 id="input">Input</h3>Além do início do programa através da função start</em>, todo o input directo no programa é efectuado apenas com os algarismos correspondentes ás acções do menu actual. Contudo, é possível adicionar mais tabuleiros ao programa através do ficheiro <em>problems.dat</em>, o ficheiro pode ser aberto como <em>txt</em> com o seguinte aspecto:</p>
 
-<p><img src="
 
-![enter image description here](https://lh3.googleusercontent.com/s8VOgA6M3vYk2ipFC9tZjOGINploonOypQVEYUlFm0j-AeERk_2i1l5frLRwkWqXTNyw5UhNOZg)" alt="enter image description here"></p>
 
 <p>
 Para adicionar um tabuleiro basta inserir como exemplificado na imagem o novo tabuleiro, no formato <code>( &lt;tabuleiro&gt; )</code>`( <tabuleiro> )` onde o tabuleiro é as duas listas correspondentes a cada lado do tabuleiro de jogo.<br>
@@ -115,5 +113,5 @@ O algoritmo A* é um algoritmo de procura <strong>__informada</strong>__, que fa
 <img src="](https://lh3.googleusercontent.com/7qpoLOle51l0yrRLIpBgpmIWxGQXgiZC-9SBmEV36WQZF7SYAMFDnNJbbGqBKlzm61sag0agjBA" alt="enter image description here"></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzODI3NTI4LC00Mjc5NjM3MDJdfQ==
+eyJoaXN0b3J5IjpbMTY0NjE2MTEyNCwtNDI3OTYzNzAyXX0=
 -->
