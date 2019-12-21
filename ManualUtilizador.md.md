@@ -105,15 +105,9 @@ O algoritmo A* é um algoritmo de procura <strong>informada</strong>, que faz us
 
 
 <h3 id="exemplo-do-programa">Exemplo do programa</h3>
-<p><img src="
 
-
-
-![enter image description here](https://lh3.googleusercontent.com/WA8dXJ2VbAbgNj-E5bW2VmkCqXfuD2kzmXGgm4TGBFbJcadXxj929xg01ORo_We3byldsrgxpbw" alt=")
-![enter image description here"><br>
-<img src="](https://lh3.googleusercontent.com/7qpoLOle51l0yrRLIpBgpmIWxGQXgiZC-9SBmEV36WQZF7SYAMFDnNJbbGqBKlzm61sag0agjBA" alt="enter image description here"></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyOTUyMTgsMjExNjE2NDQ1MywtMTg3Nz
-AyMDM3MCwtNDI3OTYzNzAyXX0=
+eyJoaXN0b3J5IjpbNzk0MTI0NDc5LDIxMTYxNjQ0NTMsLTE4Nz
+cwMjAzNzAsLTQyNzk2MzcwMl19
 -->
