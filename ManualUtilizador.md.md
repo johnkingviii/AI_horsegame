@@ -62,7 +62,7 @@ Depois de um jogo ser efetuado, serão apresentadas todas as casas onde o cavalo
 
 ![Fim do Jogo](https://lh3.googleusercontent.com/AggZFcjiuzquWizMK2r5my_bM2OPUbobt0kJBB7j0hIPYW5AABEdKAmY9QBLDp76PEwfX6W9JNmtm9bTQQ4S6SXWdbZZUiA6A1_hBhfH53biP9YB1MIcrSKX3F3FkKD8Hq6zZE0_Tr6VxEj9wg8AITMk8ee8HcP-pkxQCKp2O4udx8hArwKpCMn8YS7SDjAGfXq-FQs7tYYp902n8eBNRGUq92gnW7_yAY5TRUdqx7NFsFouOs14ygQf74_YwaSTc3Rs2YhugWz9KItA0-0ozJmsOsWzqq_bXBahn3pVrHYQjG3V4AN2TspzvVJQdVzF7ZtSpCjVNpxN3LRgKRKKlfc7aUBHnYqCnfAIl4mRcslVMMt_JjodJQ_nbJcieUtHZwHgWXOrAoRH8WIvXLGauSzpSBqqegqbph71gH5PZK7svYc_su_jYDQcdIokibkSe1xiOb-CoSmjRYhWuPcsCDponZ__SgXOtc4E7Q9tfe7Ud7-RK4miAI13-zomVWs-AEbr47qB1maMAN4oS2sV7APWxbTCEP981gZhSZQjeksvFVWNmWQc8TJaAa9R1iHcf2jyWH_0to-CxYS-dHtXKvDhWkoiHQA66wvVZD4bdK_T5z5BhKpK6dvIcqMlN9x6m-aPb-sRKB6K1H2_W1f_G9IBrSsGIXq4doZGd7h4MESHFDS2=w156-h157-no)
 
-Para além disso serão gravadas as estatísticas e medidas de desempenho num ficheiro à parte, <em>*resultados.dat</em>* na mesma directoria que o programa. Usando a seguinte estrutura:</p>
+Para além disso serão gravadas as estatísticas e medidas de desempenho num ficheiro à parte, <em>*results.dat</em>* na mesma directoria que o programa. Usando a seguinte estrutura:</p>
 <p><img src="
 
 ![enter image description here](https://lh3.googleusercontent.com/KN8YFzFG4n9Wh-EiNsyYnfXg7SNvkaRCPfyfanq6e6zEuXXlO1yCxAh-xAWmOkiVFU-HvdNWckg" alt="enter image description here"></p>
@@ -111,6 +111,6 @@ O algoritmo A* é um algoritmo de procura <strong>__informada</strong>__, que fa
 <img src="](https://lh3.googleusercontent.com/7qpoLOle51l0yrRLIpBgpmIWxGQXgiZC-9SBmEV36WQZF7SYAMFDnNJbbGqBKlzm61sag0agjBA" alt="enter image description here"></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODMyMDU3NDQsLTE4NzcwMjAzNzAsLT
-QyNzk2MzcwMl19
+eyJoaXN0b3J5IjpbMTI4MDYyMDEwOCwtMTg3NzAyMDM3MCwtND
+I3OTYzNzAyXX0=
 -->
