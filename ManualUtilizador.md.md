@@ -9,7 +9,7 @@
 <p><strong>Lista:</strong>  Conjunto de valores envolvidos por parêntesis. Ex.: ( a b c )<br>
 <strong>Nó:</strong> Estrutura de dados que guarda informação do jogo actual, nomeadamente o estado do tabuleiro actual, valores heurísticos e o seu nó antecessor.<br>
 <strong>
-__Heurística:</strong>__ Cálculo para atribuir um valor concreto a um nó.<br> 
+Heurística:</strong> Cálculo para atribuir um valor concreto a um nó.<br> 
 Ex.: h = número de peças existentes no tabuleiro</p>
 <p>
 
@@ -63,9 +63,9 @@ Depois de um jogo ser efetuado, serão apresentadas todas as casas onde o cavalo
 ![Fim do Jogo](https://lh3.googleusercontent.com/AggZFcjiuzquWizMK2r5my_bM2OPUbobt0kJBB7j0hIPYW5AABEdKAmY9QBLDp76PEwfX6W9JNmtm9bTQQ4S6SXWdbZZUiA6A1_hBhfH53biP9YB1MIcrSKX3F3FkKD8Hq6zZE0_Tr6VxEj9wg8AITMk8ee8HcP-pkxQCKp2O4udx8hArwKpCMn8YS7SDjAGfXq-FQs7tYYp902n8eBNRGUq92gnW7_yAY5TRUdqx7NFsFouOs14ygQf74_YwaSTc3Rs2YhugWz9KItA0-0ozJmsOsWzqq_bXBahn3pVrHYQjG3V4AN2TspzvVJQdVzF7ZtSpCjVNpxN3LRgKRKKlfc7aUBHnYqCnfAIl4mRcslVMMt_JjodJQ_nbJcieUtHZwHgWXOrAoRH8WIvXLGauSzpSBqqegqbph71gH5PZK7svYc_su_jYDQcdIokibkSe1xiOb-CoSmjRYhWuPcsCDponZ__SgXOtc4E7Q9tfe7Ud7-RK4miAI13-zomVWs-AEbr47qB1maMAN4oS2sV7APWxbTCEP981gZhSZQjeksvFVWNmWQc8TJaAa9R1iHcf2jyWH_0to-CxYS-dHtXKvDhWkoiHQA66wvVZD4bdK_T5z5BhKpK6dvIcqMlN9x6m-aPb-sRKB6K1H2_W1f_G9IBrSsGIXq4doZGd7h4MESHFDS2=w156-h157-no)
 
 Para além disso serão gravadas as estatísticas e medidas de desempenho num ficheiro à parte, <em>*results.dat</em>* na mesma directoria que o programa. Usando a seguinte estrutura:</p>
-<p><img src="
 
-![enter image description here](https://lh3.googleusercontent.com/KN8YFzFG4n9Wh-EiNsyYnfXg7SNvkaRCPfyfanq6e6zEuXXlO1yCxAh-xAWmOkiVFU-HvdNWckg" alt="enter image description here"></p>
+![resultados](https://lh3.googleusercontent.com/AdXrFgzruLhD6wNB9_ANQ5d8OuIHhxaKhSKRzI6Yq8zoq9EKwWa39M-g9tVhQsPk0lYm2UQiSZIYzDXcKnIgceTDUGXaYrcgKAu1Xfrzstf_1rEezetrFoxCWC0Wra9SOB05A12rdnrGBLhwT2Y2BnH8w5l8PJma8_ECPCG-R3qjZl0nL3dXn0VQxwOEO17WJCSLHZpjFZuzabhOjPvebtvhn_S_ZZ0sZwyf-VkervOX1sLPkE-raTUJhEZcl6RPnnmh75yhtRnmEhG4W5Nu5cL4GnIBcmRlMALJ9EhFv7KryKNN1EjoPMFw_BNNfa39o1D57zoyEWZ8fcNQYHtK62LuGOnL6NdX5sbOK_LPuhVsMpvbQF4ZBUABUHmYyTWIa_36Ji0m24BtsttL8uV2NsZWXRT-TEiex5cCzBt-PnmyX0EymHK6A4vKRKWvVaHYNX-AmpT7_ALXFJxQ6R_hrmWypaDGML3tOe1T0s4pPBTijUHgrDqBpFANUTVZZ9uG4_EReFraMAbNxKUZDN7SkFthDBb3fizvNm-Hhl-0L18NqHj85skU_tLp0wZn5rlDbb5ta5oc-aEORpf-sGam9xjL78HOXfpmldHadwkl5-LAT_WOUPFK0uoWNEoJf2OVB5YvWLOq1QMkjszvoJZFfijejFP42I-DCseLyaLm9mfVbkDC=w508-h617-no)
+
 <p><strong>Notas:</strong></p>
 <ul>
 <li>)
@@ -111,6 +111,6 @@ O algoritmo A* é um algoritmo de procura <strong>__informada</strong>__, que fa
 <img src="](https://lh3.googleusercontent.com/7qpoLOle51l0yrRLIpBgpmIWxGQXgiZC-9SBmEV36WQZF7SYAMFDnNJbbGqBKlzm61sag0agjBA" alt="enter image description here"></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDYyMDEwOCwtMTg3NzAyMDM3MCwtND
-I3OTYzNzAyXX0=
+eyJoaXN0b3J5IjpbLTEwOTIzNzYxMzEsLTE4NzcwMjAzNzAsLT
+QyNzk2MzcwMl19
 -->
