@@ -91,27 +91,29 @@ Para além disso serão gravadas as estatísticas e medidas de desempenho num fi
 
 #### Breadth-first Search</h4>
 <p>
-Algoritmo de procura em <strong>largura</strong>__largura__, completa a exploração de todos os nós existentes num nível antes de passar para os seus filhos (nível seguinte).</p>
+Algoritmo de procura em <strong>largura</strong>, completa a exploração de todos os nós existentes num nível antes de passar para os seus filhos (nível seguinte).</p>
 <h4 id="depth-first-search">
 
 #### Depth-first Search</h4>
 <p>
-Algoritmo de procura em <strong>__profundidade</strong>__, explora sempre o nó aberto mais à esquerda e só depois de esgotar o caminho mais à esquerda volta os níveis necessários atrás até encontrar o nó mais à esquerda que não seja o que já foi esgotado.</p>
+Algoritmo de procura em <strong>profundidade</strong>, explora sempre o nó aberto mais à esquerda e só depois de esgotar o caminho mais à esquerda volta os níveis necessários atrás até encontrar o nó mais à esquerda que não seja o que já foi esgotado.</p>
 <h4 id="a---informed-search">
 
 #### A* - informed search</h4>
 <p>
-O algoritmo A* é um algoritmo de procura <strong>__informada</strong>__, que faz uso de uma dada função heurística para atribuir um valor a cada nó que é gerado e opta por explorar sempre o nó de menor valor.</p>
+O algoritmo A* é um algoritmo de procura <strong>informada</strong>, que faz uso de uma dada função heurística para atribuir um valor a cada nó que é gerado e opta por explorar sempre o nó de menor valor.</p>
+
+
 <h3 id="exemplo-do-programa">Exemplo do programa</h3>
 <p><img src="
 
-### Exemplo do programa
+
 
 ![enter image description here](https://lh3.googleusercontent.com/WA8dXJ2VbAbgNj-E5bW2VmkCqXfuD2kzmXGgm4TGBFbJcadXxj929xg01ORo_We3byldsrgxpbw" alt=")
 ![enter image description here"><br>
 <img src="](https://lh3.googleusercontent.com/7qpoLOle51l0yrRLIpBgpmIWxGQXgiZC-9SBmEV36WQZF7SYAMFDnNJbbGqBKlzm61sag0agjBA" alt="enter image description here"></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzYyNDQxLDIxMTYxNjQ0NTMsLTE4Nz
-cwMjAzNzAsLTQyNzk2MzcwMl19
+eyJoaXN0b3J5IjpbNTgyOTUyMTgsMjExNjE2NDQ1MywtMTg3Nz
+AyMDM3MCwtNDI3OTYzNzAyXX0=
 -->
