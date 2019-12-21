@@ -57,7 +57,7 @@ Deixar uma linha vazia entre cada tabuleiro; Introduzir as 10 linhas do tabuleir
 <h3 id="outputs">Outputs</h3>
 
 <p>
-Depois de um jogo ser efetuado, serão apresentadas todas as casas onde  efetuadas até à solução, e de seguida o menu inicial.</p>
+Depois de um jogo ser efetuado, serão apresentadas todas as casas onde o cavalo passou até à solução, e de seguida o menu inicial.</p>
 
 <p><img src="
 
@@ -113,6 +113,6 @@ O algoritmo A* é um algoritmo de procura <strong>__informada</strong>__, que fa
 <img src="](https://lh3.googleusercontent.com/7qpoLOle51l0yrRLIpBgpmIWxGQXgiZC-9SBmEV36WQZF7SYAMFDnNJbbGqBKlzm61sag0agjBA" alt="enter image description here"></p>)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDAzOTgwOTcsLTE4NzcwMjAzNzAsLT
-QyNzk2MzcwMl19
+eyJoaXN0b3J5IjpbMTI4OTk2ODg5LC0xODc3MDIwMzcwLC00Mj
+c5NjM3MDJdfQ==
 -->
