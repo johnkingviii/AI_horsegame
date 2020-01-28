@@ -75,32 +75,15 @@ Para além disso serão gravadas  o número de nós analisados, o número de cor
 
 
 
-<h4 id="breadth-first-search">
-
-#### Breadth-first Search</h4>
-<p>
-Algoritmo de procura em <strong>largura</strong>, completa a exploração de todos os nós existentes num nível antes de passar para os seus filhos (nível seguinte).</p>
-<h4 id="depth-first-search">
-
-#### Depth-first Search</h4>
-<p>
-Algoritmo de procura em <strong>profundidade</strong>, explora sempre o nó aberto mais à esquerda e só depois de esgotar o caminho mais à esquerda volta os níveis necessários atrás até encontrar o nó mais à esquerda que não seja o que já foi esgotado.</p>
-<h4 id="a---informed-search">
-
-#### A* - informed search</h4>
-<p>
-O algoritmo A* é um algoritmo de procura <strong>informada</strong>, que faz uso de uma dada função heurística para atribuir um valor a cada nó que é gerado e opta por explorar sempre o nó de menor valor.</p>
 
 
 <h3 id="exemplo-do-programa">Exemplo do programa:</h3>
 
-![exe1](https://lh3.googleusercontent.com/DlP_sudKFymb0ESblAbsaJ_jGVpYjYU5DJnhYlKZ1SNgA7v3FgHyJjGohdZ1-4oXL4I-cBnUe7FFh6PklXC5TZE5SrnfsFJMccN42kv56pmJAsNY6UNrKfgzYbNvX6S2RSC9Sr1zKtHmVHgmgQCsbTtMulwbLJ1s03GwozALqsv6qoTf7ayogG8KGd1XcRzZuSzlQ-0ZHOqFgNTPNGzl_SoTwSdgsxm3r-JSTtDgmko_fWIM4SD5wbEN3zxKzM0AyC2MIYgqgmYXToyOZX3hqbc8TsWQt1MctX_2j1Q1fSrcZLaGvymVF1_oAju6HrQ0r42652kIsw0C9yQwYJ9_KZAnf3ImnLjGjNgnzQMWlqdHFCwNyIAN5601uSpc-gxKnIG5dy-kRTr3kncuctY6yOOCxq4OUUhXhy8s30eRCi0JwHO35QnWkRUJreNo-MA2DSsTlCaTtDBNni1HBDa3orGRd-5mfF0Pvr0U5BZ8sSbSD1nSC0rLUVc4YVKsFEE53HC_evuO6tVSMj9U-A790douscOLoyKD-hHeYKksnLlvvbWAx6uYawoBvu-19bBLeCc-JMjm06rFk1uXXwOdfepuFRCL2DdjwcwQ0hxTLPE07zky-EPSQM3--fUxWV6YbN-1Xu4NZqR3rOvC67Mio6t3epwXm-IyBa8Gy2aXNP2RTc0C=w433-h702-no)
 
-![exe2](https://lh3.googleusercontent.com/mx3MI-KVVKLBJpgtI8Xr_iqyLLcNpWIppFTUFWLa4axGfqrfJGlVNKj-AO9KuTD1f75q6bVISUSlMlvugM90ET_zI1PgdTPw4e1rn7oTo-ohAUpE-tvorkF9vS8E02weirorVPS1LnS_3B5djuhMq6nwsKBX1sWh32HZPjCBQeZVt5BILN24UP8BPS-YXG9UoMYJPkW7T8DHfFBQ9sUcrNQjHQZFM2M7Za8q7CaNqpk2BVXooRvF6moT9gzT2QdE4re5sCAve7Gg7e3ve13OQy517yBZ0HlNS1Hc2U7tW-aBy_j4Li5ZRqBOQA0Yb-dh59wI5BZOFOGvJWFAM1QgqJJrxHygRNFAH4ofX7YBxgoNKo52ixU76d7Xs6-w-RU9ZhMTBvhvoPE-Lusr3MJACF0AxEoF5hNEZjsRPKtFnHTwKrxjMvzA1zjJGo6ZKQLAz59lHK8-Db3-DZBG4Ysqt3vCERhAoLX60-UDtIIf7Q0AjdHL9iHH-tjxOI2aMgAisegHPAJtiYE7-DIisxDp_Jwv6S-ujg3VcFOIEWiA9oQZw9zQWKs9EQSsaCiLF30QluZryig6EHN_HsTFhxSmAH89sVnrIlY7roZfTrgMiXG1lOv_BkEY6laAU6Jf04bWC5itBrVLNGVqoB702IjU0KcrtlnEUVX7qiGUO_1TdeUJVLNF=w393-h434-no)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjkxMjgyNywtNjcxNDI4ODYwLC0xNz
-UzNzIwOTU1LC0xNDQ4OTczODY3LC00NTQ1MjI2OCwtNDU0NTIy
-NjgsLTIxMDcwNDIyMDIsLTE5OTk3Njk0MzUsMTMzNDY0NjUwNy
-w3OTQxMjQ0NzksMjExNjE2NDQ1MywtMTg3NzAyMDM3MCwtNDI3
-OTYzNzAyXX0=
+eyJoaXN0b3J5IjpbLTEwMjIxODMzODYsLTY3MTQyODg2MCwtMT
+c1MzcyMDk1NSwtMTQ0ODk3Mzg2NywtNDU0NTIyNjgsLTQ1NDUy
+MjY4LC0yMTA3MDQyMjAyLC0xOTk5NzY5NDM1LDEzMzQ2NDY1MD
+csNzk0MTI0NDc5LDIxMTYxNjQ0NTMsLTE4NzcwMjAzNzAsLTQy
+Nzk2MzcwMl19
 -->
