@@ -43,7 +43,7 @@ Recomenda-se a utilização do IDE lispWorks. Para iniciar o programa deve compi
 <p>
 Para navegar os menus terá de escrever os números pretendidos.</p>
 
-<h3 id="input">Input</h3>Além do início do programa através da função <em>start</em>, todo o input directo no programa é efectuado apenas com os algarismos correspondentes ás acções do menu actual, incluindo as escolhas das jogadas possíveis durante um jogo. No que diz respeito ao jogador humano, o programa lê a jogada inserida através do teclado (coordenadas da linha e coluna na forma - exemplo: J10).
+<h3 id="input">Input</h3>Além do início do programa através da função <em>start</em>, todo o input directo no programa é efectuado apenas com os algarismos correspondentes ás acções do menu actual, incluindo as escolhas das jogadas possíveis durante um jogo.  No que diz respeito ao jogador humano, o programa lê a jogada inserida através do teclado (ex. 1 - (1 A)).
 
 <h3 id="outputs">Modos de Jogo</h3>
 Existem apenas 2 modos de jogo por selecionar:
@@ -108,8 +108,8 @@ O algoritmo A* é um algoritmo de procura <strong>informada</strong>, que faz us
 
 ![exe2](https://lh3.googleusercontent.com/mx3MI-KVVKLBJpgtI8Xr_iqyLLcNpWIppFTUFWLa4axGfqrfJGlVNKj-AO9KuTD1f75q6bVISUSlMlvugM90ET_zI1PgdTPw4e1rn7oTo-ohAUpE-tvorkF9vS8E02weirorVPS1LnS_3B5djuhMq6nwsKBX1sWh32HZPjCBQeZVt5BILN24UP8BPS-YXG9UoMYJPkW7T8DHfFBQ9sUcrNQjHQZFM2M7Za8q7CaNqpk2BVXooRvF6moT9gzT2QdE4re5sCAve7Gg7e3ve13OQy517yBZ0HlNS1Hc2U7tW-aBy_j4Li5ZRqBOQA0Yb-dh59wI5BZOFOGvJWFAM1QgqJJrxHygRNFAH4ofX7YBxgoNKo52ixU76d7Xs6-w-RU9ZhMTBvhvoPE-Lusr3MJACF0AxEoF5hNEZjsRPKtFnHTwKrxjMvzA1zjJGo6ZKQLAz59lHK8-Db3-DZBG4Ysqt3vCERhAoLX60-UDtIIf7Q0AjdHL9iHH-tjxOI2aMgAisegHPAJtiYE7-DIisxDp_Jwv6S-ujg3VcFOIEWiA9oQZw9zQWKs9EQSsaCiLF30QluZryig6EHN_HsTFhxSmAH89sVnrIlY7roZfTrgMiXG1lOv_BkEY6laAU6Jf04bWC5itBrVLNGVqoB702IjU0KcrtlnEUVX7qiGUO_1TdeUJVLNF=w393-h434-no)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjYzNDgzNywtMTc1MzcyMDk1NSwtMT
-Q0ODk3Mzg2NywtNDU0NTIyNjgsLTQ1NDUyMjY4LC0yMTA3MDQy
-MjAyLC0xOTk5NzY5NDM1LDEzMzQ2NDY1MDcsNzk0MTI0NDc5LD
-IxMTYxNjQ0NTMsLTE4NzcwMjAzNzAsLTQyNzk2MzcwMl19
+eyJoaXN0b3J5IjpbNjgzMTUwNDgwLC0xNzUzNzIwOTU1LC0xND
+Q4OTczODY3LC00NTQ1MjI2OCwtNDU0NTIyNjgsLTIxMDcwNDIy
+MDIsLTE5OTk3Njk0MzUsMTMzNDY0NjUwNyw3OTQxMjQ0NzksMj
+ExNjE2NDQ1MywtMTg3NzAyMDM3MCwtNDI3OTYzNzAyXX0=
 -->
