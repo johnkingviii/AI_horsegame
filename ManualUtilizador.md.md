@@ -51,7 +51,7 @@ Existem apenas 2 modos de jogo por selecionar:
 <li>Humano vs Computador</li>
 <li>Computador vs Computador</li>
 </ol>
-No modo 1, no início de cada partida, o utilizador deve decidir quem começa, humano ou computador, e qual o tempo limite para o computador jogar, enquanto que no modo 2 apenas é necessário definir o tempo limite.
+No modo 1, No início de cada partida, o utilizador deve decidir quem começa, humano ou computador, e qual o tempo limite para o computador jogar, o qual será de X milissegundos. O valor de X deverá ser um valor compreendido entre 1000 e 5000 milissegundos, enquanto que no modo 2 apenas é necessário definir o tempo limite.
 
 ![CONFIGS](https://lh3.googleusercontent.com/_SrI2YyR0cnWZBZCUehnUe0kO3hWOEArClO-XWUlvCbbuZcaXcTNMoVPDu0o8XZv_pX-NEZtguZC1QtGptfnyAZYFNyRjcqF0KZCgstm1vJjQDI7QQWs_H2IxISTdgXPIDwrEDmFk_hibLRhPZDgx1aairt4uecDyj0iRxDCYC9qUU_v-vbmVhrhvqBjPeZHGNvSng6y4jAT5_6l1XeLZlpHt3gj1lxMA2DgDLWDw07plKatqUb819Tu05if2iTCgxBcFRah4uNMKRU_p_2qCpFX1poti5iH1xseBzXBn9HBxvaw9VkCZdy9VO7tEugN8i5NcyiSJSBiCIKPWZBpYC5Gc5vzWsns7bWRPDyWa8iyGJLwalv1yrKJbf-9lJzqiSax-tpsZDqjGqbADBoBsbUpyC3Mwih22NzmS30Z5gVJJkBMEi3api0CSMBRSyQhr0ax4zUHA1QE19sgW69OncaOwJx1NtOFtYUxuctdveIU3iZhxkiqb0tOfQwBbcP7HuEwl_wqC3iz8WY_ocF9YmUwJOW-FQ0wetiSG2iWsVE203OC3DG5C0RiK2KEC7gxPcV86kTBSFMhI3E5yIICR7eqgunP7MjxNpeApMGp4h13ebRSaafo3VyNap3tnk5mBjSdmLQrMha3mcGs8OiXntb_6es3LXkLUOz-DXuLznci4BUB=w451-h629-no)
 
@@ -108,8 +108,9 @@ O algoritmo A* é um algoritmo de procura <strong>informada</strong>, que faz us
 
 ![exe2](https://lh3.googleusercontent.com/mx3MI-KVVKLBJpgtI8Xr_iqyLLcNpWIppFTUFWLa4axGfqrfJGlVNKj-AO9KuTD1f75q6bVISUSlMlvugM90ET_zI1PgdTPw4e1rn7oTo-ohAUpE-tvorkF9vS8E02weirorVPS1LnS_3B5djuhMq6nwsKBX1sWh32HZPjCBQeZVt5BILN24UP8BPS-YXG9UoMYJPkW7T8DHfFBQ9sUcrNQjHQZFM2M7Za8q7CaNqpk2BVXooRvF6moT9gzT2QdE4re5sCAve7Gg7e3ve13OQy517yBZ0HlNS1Hc2U7tW-aBy_j4Li5ZRqBOQA0Yb-dh59wI5BZOFOGvJWFAM1QgqJJrxHygRNFAH4ofX7YBxgoNKo52ixU76d7Xs6-w-RU9ZhMTBvhvoPE-Lusr3MJACF0AxEoF5hNEZjsRPKtFnHTwKrxjMvzA1zjJGo6ZKQLAz59lHK8-Db3-DZBG4Ysqt3vCERhAoLX60-UDtIIf7Q0AjdHL9iHH-tjxOI2aMgAisegHPAJtiYE7-DIisxDp_Jwv6S-ujg3VcFOIEWiA9oQZw9zQWKs9EQSsaCiLF30QluZryig6EHN_HsTFhxSmAH89sVnrIlY7roZfTrgMiXG1lOv_BkEY6laAU6Jf04bWC5itBrVLNGVqoB702IjU0KcrtlnEUVX7qiGUO_1TdeUJVLNF=w393-h434-no)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTk1OTM3OSwtMTc1MzcyMDk1NSwtMT
-Q0ODk3Mzg2NywtNDU0NTIyNjgsLTQ1NDUyMjY4LC0yMTA3MDQy
-MjAyLC0xOTk5NzY5NDM1LDEzMzQ2NDY1MDcsNzk0MTI0NDc5LD
-IxMTYxNjQ0NTMsLTE4NzcwMjAzNzAsLTQyNzk2MzcwMl19
+eyJoaXN0b3J5IjpbLTE4OTM5OTk0NDIsLTE3NTM3MjA5NTUsLT
+E0NDg5NzM4NjcsLTQ1NDUyMjY4LC00NTQ1MjI2OCwtMjEwNzA0
+MjIwMiwtMTk5OTc2OTQzNSwxMzM0NjQ2NTA3LDc5NDEyNDQ3OS
+wyMTE2MTY0NDUzLC0xODc3MDIwMzcwLC00Mjc5NjM3MDJdfQ==
+
 -->
