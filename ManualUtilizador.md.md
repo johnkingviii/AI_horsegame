@@ -54,6 +54,9 @@ Existem apenas 2 modos de jogo por selecionar:
 </ol>
 No modo 1, no início de cada partida, o utilizador deve decidir quem começa, humano ou computador, e qual o tempo limite para o computador jogar, enquanto que no modo 2 apenas é necessário definir o tempo limite.
 
+IMAGEM
+
+O jogo é iniciado pelo Jogador 1 colocando o cavalo branco na casa de maior valor na 1ª linha do tabuleiro. O processo é análogo para o Jogador 2, que coloca o cavalo preto na casa de maior valor da 10ª linha do tabuleiro. A cada jogada, mediante a casa em que se colocou o cavalo, é aplicada a regra do número simétrico ou a regra do número duplo. Caso um dos jogadores não consiga movimentar o cavalo, cede a vez ao jogador oposto. O jogo termina quando nenhum jogador consegue movimentar o cavalo.
 <h3 id="outputs">Outputs</h3>
 
 <p>
@@ -106,8 +109,8 @@ O algoritmo A* é um algoritmo de procura <strong>informada</strong>, que faz us
 
 ![exe2](https://lh3.googleusercontent.com/mx3MI-KVVKLBJpgtI8Xr_iqyLLcNpWIppFTUFWLa4axGfqrfJGlVNKj-AO9KuTD1f75q6bVISUSlMlvugM90ET_zI1PgdTPw4e1rn7oTo-ohAUpE-tvorkF9vS8E02weirorVPS1LnS_3B5djuhMq6nwsKBX1sWh32HZPjCBQeZVt5BILN24UP8BPS-YXG9UoMYJPkW7T8DHfFBQ9sUcrNQjHQZFM2M7Za8q7CaNqpk2BVXooRvF6moT9gzT2QdE4re5sCAve7Gg7e3ve13OQy517yBZ0HlNS1Hc2U7tW-aBy_j4Li5ZRqBOQA0Yb-dh59wI5BZOFOGvJWFAM1QgqJJrxHygRNFAH4ofX7YBxgoNKo52ixU76d7Xs6-w-RU9ZhMTBvhvoPE-Lusr3MJACF0AxEoF5hNEZjsRPKtFnHTwKrxjMvzA1zjJGo6ZKQLAz59lHK8-Db3-DZBG4Ysqt3vCERhAoLX60-UDtIIf7Q0AjdHL9iHH-tjxOI2aMgAisegHPAJtiYE7-DIisxDp_Jwv6S-ujg3VcFOIEWiA9oQZw9zQWKs9EQSsaCiLF30QluZryig6EHN_HsTFhxSmAH89sVnrIlY7roZfTrgMiXG1lOv_BkEY6laAU6Jf04bWC5itBrVLNGVqoB702IjU0KcrtlnEUVX7qiGUO_1TdeUJVLNF=w393-h434-no)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM3MjA5NTUsLTE0NDg5NzM4NjcsLT
-Q1NDUyMjY4LC00NTQ1MjI2OCwtMjEwNzA0MjIwMiwtMTk5OTc2
-OTQzNSwxMzM0NjQ2NTA3LDc5NDEyNDQ3OSwyMTE2MTY0NDUzLC
-0xODc3MDIwMzcwLC00Mjc5NjM3MDJdfQ==
+eyJoaXN0b3J5IjpbODkwMzM3Njg4LC0xNzUzNzIwOTU1LC0xND
+Q4OTczODY3LC00NTQ1MjI2OCwtNDU0NTIyNjgsLTIxMDcwNDIy
+MDIsLTE5OTk3Njk0MzUsMTMzNDY0NjUwNyw3OTQxMjQ0NzksMj
+ExNjE2NDQ1MywtMTg3NzAyMDM3MCwtNDI3OTYzNzAyXX0=
 -->
