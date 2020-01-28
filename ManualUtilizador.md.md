@@ -63,8 +63,13 @@ Após o fim de cada jogada é apresentado o tabuleiro com as pontos de cada casa
 
 ![enter image description here](https://lh3.googleusercontent.com/hJD5twRuby06JjpHcCXa5QY6aVUMLciBQCsXHxIN5VY3wkzeuDrp6TOP3kk9L0O1Cgcc5GbdBXHpg32-zUbV4uA8upPQW5MCOxx2N3Q1kTtZ_M2ekxkU-ZWa_0x6iyiH7WZ2kheOvbd2CiHYeBi_zQHjv2jO7TO75zxFlF-NBo6PRxEJqaih6fz19WDRRmZzZmp-7TmPuJLfD90JrJxo7kGAmknWEKiW45CNuI6zO9lMappb8IKorVqZa55KIxT5HhzmE_eTWA-ZGSUB68ZvemRcQhzyxaenj41N6GrJHy9WhoygWlI6mAvLf1BbgIr5dQZBoVWl0C3bb1HIMDssw4q0ywllRKPHWH8hCL-s10VMXg5fe1sGYmfOkjKre7Evh1gnaZW7o4sCxvSVDwXyz_CamPW0q8x3ImR7N_hLriLjlNKYUQkBybsyafHU2ece_WjmEErfSGGrnBrT7DkDJ_gsOmJWXcC9qLg11bNsofPE9DEHWd2PZGCaqzjFZC0sR3IUGup5bRL9bLte9mudDTz4K6yNFbJNBPDnTAM0R5kV1QRsu8Om0MZ1NQ99Pb-TG7Rh3-TSJ-VaclC_eqHWcNL-mYkj7A7gQ3oZjt72qZYnCIBrfnM8A1Mz5FUhxwUAa4kThbvr0ZKIVodRfMmzK8gHQMBHNM9pDJDzSz5xLvVhJu1e=w372-h469-no)
 
-
-
+Cada casa do tabuleiro poderá ser representada pelo seguinte valor: 
+<ul>
+<li>De 00 a 99 significa que a casa ainda não foi visitada; </li>
+<li>NIL significa que a casa já foi visitada; </li>
+<li>-1 significa que o cavalo branco (Jogador 1) se encontra nessa casa;</li>
+ <li>-2 significa que o cavalo preto (Jogador 2) se encontra nessa casa.</li>
+</ul>
 
 Para além disso serão gravadas as estatísticas e medidas de desempenho num ficheiro à parte, <em>*log.dat</em>* na mesma directoria que o programa. Usando a seguinte estrutura:</p>
 
@@ -110,9 +115,8 @@ O algoritmo A* é um algoritmo de procura <strong>informada</strong>, que faz us
 
 ![exe2](https://lh3.googleusercontent.com/mx3MI-KVVKLBJpgtI8Xr_iqyLLcNpWIppFTUFWLa4axGfqrfJGlVNKj-AO9KuTD1f75q6bVISUSlMlvugM90ET_zI1PgdTPw4e1rn7oTo-ohAUpE-tvorkF9vS8E02weirorVPS1LnS_3B5djuhMq6nwsKBX1sWh32HZPjCBQeZVt5BILN24UP8BPS-YXG9UoMYJPkW7T8DHfFBQ9sUcrNQjHQZFM2M7Za8q7CaNqpk2BVXooRvF6moT9gzT2QdE4re5sCAve7Gg7e3ve13OQy517yBZ0HlNS1Hc2U7tW-aBy_j4Li5ZRqBOQA0Yb-dh59wI5BZOFOGvJWFAM1QgqJJrxHygRNFAH4ofX7YBxgoNKo52ixU76d7Xs6-w-RU9ZhMTBvhvoPE-Lusr3MJACF0AxEoF5hNEZjsRPKtFnHTwKrxjMvzA1zjJGo6ZKQLAz59lHK8-Db3-DZBG4Ysqt3vCERhAoLX60-UDtIIf7Q0AjdHL9iHH-tjxOI2aMgAisegHPAJtiYE7-DIisxDp_Jwv6S-ujg3VcFOIEWiA9oQZw9zQWKs9EQSsaCiLF30QluZryig6EHN_HsTFhxSmAH89sVnrIlY7roZfTrgMiXG1lOv_BkEY6laAU6Jf04bWC5itBrVLNGVqoB702IjU0KcrtlnEUVX7qiGUO_1TdeUJVLNF=w393-h434-no)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU1NzA1MjUsLTE3NTM3MjA5NTUsLT
-E0NDg5NzM4NjcsLTQ1NDUyMjY4LC00NTQ1MjI2OCwtMjEwNzA0
-MjIwMiwtMTk5OTc2OTQzNSwxMzM0NjQ2NTA3LDc5NDEyNDQ3OS
-wyMTE2MTY0NDUzLC0xODc3MDIwMzcwLC00Mjc5NjM3MDJdfQ==
-
+eyJoaXN0b3J5IjpbLTE3NzU0NzMwOSwtMTc1MzcyMDk1NSwtMT
+Q0ODk3Mzg2NywtNDU0NTIyNjgsLTQ1NDUyMjY4LC0yMTA3MDQy
+MjAyLC0xOTk5NzY5NDM1LDEzMzQ2NDY1MDcsNzk0MTI0NDc5LD
+IxMTYxNjQ0NTMsLTE4NzcwMjAzNzAsLTQyNzk2MzcwMl19
 -->
