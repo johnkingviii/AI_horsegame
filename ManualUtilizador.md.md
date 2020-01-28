@@ -33,12 +33,11 @@ No decorrer do programa é possível visualizar todos os tabuleiros disponíveis
   jogo.lisp</li>
 <li>
   algoritmo.lisp</li>
-<li>
-  problems.dat</li>
+
 </ul>
 <p>
 
-Recomenda-se a utilização do IDE lispWorks. Para iniciar o programa deve compilar no IDE o ficheiro <em>*project.lisp</em>* e de seguida executar a função *start*, como mostra a imagem:</p>
+Recomenda-se a utilização do IDE lispWorks. Para iniciar o programa deve compilar no IDE o ficheiro <em>*jogo.lisp</em>* e de seguida executar a função *start*, como mostra a imagem:</p>
 
 ![Menu Principal](https://lh3.googleusercontent.com/NHV2oJtr3jP-MVVpTN481_roMKtaeXzk0TnfLmFDN533mx4v5_n-ZMly7uqrxRpnWNrN07k-fbxtS4VrPZOaBcxO7hOUkTWmc0vZiXVdczKA-u4pwHUzsnHqabDoZza5soUzINzf7QZNk3zoXZIBEP-yTePdRyyCMTWr99sBT32uXzkxLLQ6vnsuvTqHxgm26ikwemkG_3oW226vAnqf30_3_az4kx-HdubZRYKsSoaay-0Ao_nHWUuDNBRS1x69bi4KtTTme_4bO3Rue4z1Qknn25_kWDEovVsfe0sQK-uaG9cqlpUqCOBwUx9J2tvX3_q4XvRzEj9GeCOAL2HrwRh6EhbMgnjRfJ9p__NXatADXhPvbgPQxUQMN0x-ZjfeVgT36HxgpY-mbIPtRfXFGYfxIl17ZZ-1e2GJVqmLbbMlricBucm_geuNrW7E2dk7NWglTs8Pj7CshIGCXrkiNjRl2zcXh51ec_DlDaqKX8U8lr5SwMsQhrHcv6aCcdliiQRDSWLpaJfgs4TMnD23TkopmAO_EH-RwQ4cQWPcOrqESSvGepEvffCdHSrtNz3Cqz9AzxI6OFb7DvhCmlzqmIX0BNxHZdVKP0tCqzUNIwHjXXKqazoXARSdgBwoCrF-0ZAtmx4WF2vQaKX0FA1uH-Ft_R_hBAhVCykD5Rti--S73-iut-JcCJTbfWpA3l_8Hd0E-SAsSkb6-nl1FJ-wmck1yq8gzRFAVnJlMYtPdw=w413-h239-no)
 
@@ -107,8 +106,8 @@ O algoritmo A* é um algoritmo de procura <strong>informada</strong>, que faz us
 
 ![exe2](https://lh3.googleusercontent.com/mx3MI-KVVKLBJpgtI8Xr_iqyLLcNpWIppFTUFWLa4axGfqrfJGlVNKj-AO9KuTD1f75q6bVISUSlMlvugM90ET_zI1PgdTPw4e1rn7oTo-ohAUpE-tvorkF9vS8E02weirorVPS1LnS_3B5djuhMq6nwsKBX1sWh32HZPjCBQeZVt5BILN24UP8BPS-YXG9UoMYJPkW7T8DHfFBQ9sUcrNQjHQZFM2M7Za8q7CaNqpk2BVXooRvF6moT9gzT2QdE4re5sCAve7Gg7e3ve13OQy517yBZ0HlNS1Hc2U7tW-aBy_j4Li5ZRqBOQA0Yb-dh59wI5BZOFOGvJWFAM1QgqJJrxHygRNFAH4ofX7YBxgoNKo52ixU76d7Xs6-w-RU9ZhMTBvhvoPE-Lusr3MJACF0AxEoF5hNEZjsRPKtFnHTwKrxjMvzA1zjJGo6ZKQLAz59lHK8-Db3-DZBG4Ysqt3vCERhAoLX60-UDtIIf7Q0AjdHL9iHH-tjxOI2aMgAisegHPAJtiYE7-DIisxDp_Jwv6S-ujg3VcFOIEWiA9oQZw9zQWKs9EQSsaCiLF30QluZryig6EHN_HsTFhxSmAH89sVnrIlY7roZfTrgMiXG1lOv_BkEY6laAU6Jf04bWC5itBrVLNGVqoB702IjU0KcrtlnEUVX7qiGUO_1TdeUJVLNF=w393-h434-no)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDE3MTA1NywtNDU0NTIyNjgsLTQ1ND
-UyMjY4LC0yMTA3MDQyMjAyLC0xOTk5NzY5NDM1LDEzMzQ2NDY1
-MDcsNzk0MTI0NDc5LDIxMTYxNjQ0NTMsLTE4NzcwMjAzNzAsLT
-QyNzk2MzcwMl19
+eyJoaXN0b3J5IjpbLTE0NDg5NzM4NjcsLTQ1NDUyMjY4LC00NT
+Q1MjI2OCwtMjEwNzA0MjIwMiwtMTk5OTc2OTQzNSwxMzM0NjQ2
+NTA3LDc5NDEyNDQ3OSwyMTE2MTY0NDUzLC0xODc3MDIwMzcwLC
+00Mjc5NjM3MDJdfQ==
 -->
