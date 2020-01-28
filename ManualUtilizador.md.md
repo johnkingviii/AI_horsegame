@@ -8,10 +8,7 @@
 <h3 id="acrónimos-e-convenções-usadas">Acrónimos e convenções usadas</h3>
 
 <strong>Nó:</strong> Estrutura de dados que guarda informação do jogo actual, nomeadamente o estado do tabuleiro actual, valores heurísticos e o seu nó antecessor.<br>
-<strong>
-Heurística:</strong> Cálculo para atribuir um valor concreto a um nó.<br> 
-Ex.: h = número de peças existentes no tabuleiro</p>
-<p>
+
 
 De notar, em LISP as funções são chamadas da seguinte forma:<br>
 <code>(&lt;funtion&gt; &lt;arg1&gt; &lt;arg2&gt;)</code></p>
@@ -91,9 +88,9 @@ Fim do Jogo:
 
 ![enter image description here](https://lh3.googleusercontent.com/BTSRRdPjs8EEhpmmhZiw4VNEh6XY2Jk9JEzRL7styGx5XiVe-Um4dN1-TtvVM9yQx_TaHNmy_JLJpVDjbpvPXr09sm3F0utKpL_toQR51qs1vbKl8v37f4_HTmOokqRTu4BkhxRb1zihJPMre3VbltbLU68mbqMCHViuKdoG2dgU8ImdoFdkS10FeCWFLIYBEZmjuPfzT2E596SHU8ssUOk7Vy3lCSra8HGm_gU_nCTzIGts-TNjeu_XKLtsaDJPC1iJeARxRlXjPuQjyz2GSxs5aH5aD3dbrnfovWIH_zMndb78jwe_jozNNqxSI44fm7nCxpzCxPiYDmF0ACk-bHY6NyLjopQylihUQKc-0svuvdCvrAujRa1ekvC1t7fWu1p4MIhfUZzLC9QN1AfSrP5F0Ec6xXq1ciUj5XJWDBUoIK9-RW7l5zPItbfwxmEyDsV8JiM0URMn0aIEDNYdIWA_n2UDRhwGM04NMxWvFC-mKnANlR8WmZa81OZf0as3V6Zkw6NtVGx3QcDp5XpbrBvOVe7t4zOBB3d7op--JR-9Qeq-vkCRu4VerSz5cjFeMqSfLoh6LWMioTNZ_aYKXlDd1q9j4Sx_SoBnmOtbQcyHQv85adcjyMVH5kVWTxcZjAg6fV_VgqUUpoYSM3VYqy_M0ch1bFyOQov2tB7ZQKh3YCnw=w385-h554-no)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyNzU4NDA4LC0xMDIyMTgzMzg2LC02Nz
-E0Mjg4NjAsLTE3NTM3MjA5NTUsLTE0NDg5NzM4NjcsLTQ1NDUy
-MjY4LC00NTQ1MjI2OCwtMjEwNzA0MjIwMiwtMTk5OTc2OTQzNS
-wxMzM0NjQ2NTA3LDc5NDEyNDQ3OSwyMTE2MTY0NDUzLC0xODc3
-MDIwMzcwLC00Mjc5NjM3MDJdfQ==
+eyJoaXN0b3J5IjpbLTE1ODA2MjM4NDcsLTEwMjIxODMzODYsLT
+Y3MTQyODg2MCwtMTc1MzcyMDk1NSwtMTQ0ODk3Mzg2NywtNDU0
+NTIyNjgsLTQ1NDUyMjY4LC0yMTA3MDQyMjAyLC0xOTk5NzY5ND
+M1LDEzMzQ2NDY1MDcsNzk0MTI0NDc5LDIxMTYxNjQ0NTMsLTE4
+NzcwMjAzNzAsLTQyNzk2MzcwMl19
 -->
