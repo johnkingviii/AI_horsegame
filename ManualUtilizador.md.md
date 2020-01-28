@@ -6,7 +6,7 @@
 <h1 id="inteligência-artificial---adji‒boto">Inteligência Artificial - Jogo do Cavalo</h1>
 <h2 id="manual-de-utilizador">Manual de Utilizador</h2>
 <h3 id="acrónimos-e-convenções-usadas">Acrónimos e convenções usadas</h3>
-<p><strong>Lista:</strong>  Conjunto de valores envolvidos por parêntesis. Ex.: ( a b c )<br>
+
 <strong>Nó:</strong> Estrutura de dados que guarda informação do jogo actual, nomeadamente o estado do tabuleiro actual, valores heurísticos e o seu nó antecessor.<br>
 <strong>
 Heurística:</strong> Cálculo para atribuir um valor concreto a um nó.<br> 
@@ -80,7 +80,9 @@ Para além disso serão gravadas  o número de nós analisados, o número de cor
 <h3 id="exemplo-do-programa">Exemplo do programa:</h3>
 Início do Jogo:
 
+![enter image description here](https://lh3.googleusercontent.com/u-dOR3UTf9R4jTTIU3l92FCjWZA3rCPWqv2vXx2YMQrM6wXOXcJeQRstPq_Rc0BOI9Kgl4eK4ke1frczutGpOvC5SfvwVNCV7MzLuBNQuesGGqoXu6slKv6_FcCzTlAJWBXZy32S-Zx3uSQ-b1hk1kF-WR6tQ_yJZUL9cibVqcZx2YF5IMbl5pnQMuGj8ICDuJ419TiHil7dZcHbmhkSbS9aiuOTAHXojIo-5iDikhv2BzeAXBFTd1AYArAFSEe0prOwxfeoDu0pJVLrLJQr4bivaWdmNiti8OC7t4p9ttU-b5XKZ5pabqRkSBDpnecsM0a7qPr-hzOCZoqqNfcVNWZ4KSjSMJfcxq0Vt8WGQ4KOaOadm1S5vm4_ZYNtd_HiLwXKvJzXqCqlxAPGF25LNpyO6xrybOEgQDar7oOYw3Ko1rBl-msOg47ZyCs1uLnSNj_hSydrLwTvRN6rg-ZiNHYkg_XJ0zz7Fnyk0j_YQlG9W_dZalHojdspT8ttCrTkK1TR4TCVi7r-lcIMyb88D31cULfoa-KymXgoCOej7QkKjRaDOlTqB7h45GiLrrb-Ha8Zr0KRmwmMBUCxHeCDLFCL6t9vtGa8l549-gdCwAx-v2TOAUVvt6hEZYz0v9ijR6kl3p1Hkmq6M38PEKOO8hq2liVp-ec3K0YsDMD6SAJxyiF1=w431-h661-no)
 
+Escolha de uma Jogada:
 
 ![enter image description here](https://lh3.googleusercontent.com/7mtijsnSP1B-tcyJKEGSFFtDrS--xJ1Ll_ChcCIJrz-J2-DbpPpN5g_6BeWKkK0uKH8PMkbDuu-0f5rzH3z_ZU6KXe4I_a5dy0H0P3E4DgVx5e85nymdEFOl9-urYKFHjlT_NZZIdcu4YHHyH2Jgx93rs2K_oNWcelVE7X6RiKiQwtLuMWpYOfEkpowh8928IMnLsow8z6M4akPG87eYZhGV_tOU5tF2FeWiMAMw5H0oRUNfS8R8Y2NFUhreC6Sz8FvzR_pDvqKX-DtZuRJW6idut1sNkH-Qu73rbU_4iktgAyAfQJaZ4AYhtA_ZVzOZolVcg9tkm3L6JQ9z_tbyerkO_kTSRi6H22uqABV2hX13wjuTOzV-9XNfXfpMN14qYkj7o7rt_J6Bz0QMD_ejnLP3WmkEQaLgTXfnzJ7pvE5FgXHPFUjpphnLxhMreiK1aG318VSQnrxM9BwmQVV6Eh-MAV9YM6B1HQ4eJzQEvCjeD0HWhFfDgqLwu1I7JwuN89Y4pW4wttvIqEZXgWePCZWqNhJs7HmzBdLfJ2LFSX4YKsj12EhH1QrlVOiO6bLKph_o3enY3sRU5Pj8QXG9BO8-nBNbb67UY7CAiqzehubRfgQm0WkBLjkhY6dLWz3WvtBl1UeiIpmtCIxvSxsaJorov6V2wJh7lkGynRlBYBuZZDk1=w403-h770-no)
 
@@ -89,9 +91,9 @@ Fim do Jogo:
 
 ![enter image description here](https://lh3.googleusercontent.com/BTSRRdPjs8EEhpmmhZiw4VNEh6XY2Jk9JEzRL7styGx5XiVe-Um4dN1-TtvVM9yQx_TaHNmy_JLJpVDjbpvPXr09sm3F0utKpL_toQR51qs1vbKl8v37f4_HTmOokqRTu4BkhxRb1zihJPMre3VbltbLU68mbqMCHViuKdoG2dgU8ImdoFdkS10FeCWFLIYBEZmjuPfzT2E596SHU8ssUOk7Vy3lCSra8HGm_gU_nCTzIGts-TNjeu_XKLtsaDJPC1iJeARxRlXjPuQjyz2GSxs5aH5aD3dbrnfovWIH_zMndb78jwe_jozNNqxSI44fm7nCxpzCxPiYDmF0ACk-bHY6NyLjopQylihUQKc-0svuvdCvrAujRa1ekvC1t7fWu1p4MIhfUZzLC9QN1AfSrP5F0Ec6xXq1ciUj5XJWDBUoIK9-RW7l5zPItbfwxmEyDsV8JiM0URMn0aIEDNYdIWA_n2UDRhwGM04NMxWvFC-mKnANlR8WmZa81OZf0as3V6Zkw6NtVGx3QcDp5XpbrBvOVe7t4zOBB3d7op--JR-9Qeq-vkCRu4VerSz5cjFeMqSfLoh6LWMioTNZ_aYKXlDd1q9j4Sx_SoBnmOtbQcyHQv85adcjyMVH5kVWTxcZjAg6fV_VgqUUpoYSM3VYqy_M0ch1bFyOQov2tB7ZQKh3YCnw=w385-h554-no)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjE2MDAyNCwtMTAyMjE4MzM4NiwtNj
-cxNDI4ODYwLC0xNzUzNzIwOTU1LC0xNDQ4OTczODY3LC00NTQ1
-MjI2OCwtNDU0NTIyNjgsLTIxMDcwNDIyMDIsLTE5OTk3Njk0Mz
-UsMTMzNDY0NjUwNyw3OTQxMjQ0NzksMjExNjE2NDQ1MywtMTg3
-NzAyMDM3MCwtNDI3OTYzNzAyXX0=
+eyJoaXN0b3J5IjpbODkyNzU4NDA4LC0xMDIyMTgzMzg2LC02Nz
+E0Mjg4NjAsLTE3NTM3MjA5NTUsLTE0NDg5NzM4NjcsLTQ1NDUy
+MjY4LC00NTQ1MjI2OCwtMjEwNzA0MjIwMiwtMTk5OTc2OTQzNS
+wxMzM0NjQ2NTA3LDc5NDEyNDQ3OSwyMTE2MTY0NDUzLC0xODc3
+MDIwMzcwLC00Mjc5NjM3MDJdfQ==
 -->
