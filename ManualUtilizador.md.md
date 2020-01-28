@@ -71,23 +71,8 @@ Cada casa do tabuleiro poderá ser representada pelo seguinte valor:
  <li>-2 significa que o cavalo preto (Jogador 2) se encontra nessa casa.</li>
 </ul>
 
-Para além disso serão gravadas  o número de nós analisados, o número de cortes efetuados (de cada tipo), o tempo gasto em cada jogada e o tabuleiro atual no ficheiro <em>*log.dat</em>* na mesma directoria que o programa. Usando a seguinte estrutura:</p>
+Para além disso serão gravadas  o número de nós analisados, o número de cortes efetuados (de cada tipo), o tempo gasto em cada jogada e o tabuleiro atual no ficheiro <em>*log.dat</em>* na mesma directoria que o programa.
 
-![resultados](https://lh3.googleusercontent.com/AdXrFgzruLhD6wNB9_ANQ5d8OuIHhxaKhSKRzI6Yq8zoq9EKwWa39M-g9tVhQsPk0lYm2UQiSZIYzDXcKnIgceTDUGXaYrcgKAu1Xfrzstf_1rEezetrFoxCWC0Wra9SOB05A12rdnrGBLhwT2Y2BnH8w5l8PJma8_ECPCG-R3qjZl0nL3dXn0VQxwOEO17WJCSLHZpjFZuzabhOjPvebtvhn_S_ZZ0sZwyf-VkervOX1sLPkE-raTUJhEZcl6RPnnmh75yhtRnmEhG4W5Nu5cL4GnIBcmRlMALJ9EhFv7KryKNN1EjoPMFw_BNNfa39o1D57zoyEWZ8fcNQYHtK62LuGOnL6NdX5sbOK_LPuhVsMpvbQF4ZBUABUHmYyTWIa_36Ji0m24BtsttL8uV2NsZWXRT-TEiex5cCzBt-PnmyX0EymHK6A4vKRKWvVaHYNX-AmpT7_ALXFJxQ6R_hrmWypaDGML3tOe1T0s4pPBTijUHgrDqBpFANUTVZZ9uG4_EReFraMAbNxKUZDN7SkFthDBb3fizvNm-Hhl-0L18NqHj85skU_tLp0wZn5rlDbb5ta5oc-aEORpf-sGam9xjL78HOXfpmldHadwkl5-LAT_WOUPFK0uoWNEoJf2OVB5YvWLOq1QMkjszvoJZFfijejFP42I-DCseLyaLm9mfVbkDC=w508-h617-no)
-
-<p><strong>Notas:</strong></p>
-<ul>
-<li>
-  Número de nós gerados - número total de possíveis jogadas geradas</li>
-<li>
-  Número de nós expandidos - número de tabuleiros onde se exploraram as jogadas possíveis</li>
-<li>
-  Penetrância - quociente entre o comprimento da solução e o número total de nós gerados</li>
-<li>
-  Comprimento da solução - número de níveis da árvore do problema desde a raiz até à solução</li>
-<li>
-  Factor de ramificação média - o número médio de ramos gerados por cada nó</li>
-</ul>
 
 <h3 id="algoritmos-de-procura
 ">Algoritmos de procura</h3>
@@ -115,7 +100,7 @@ O algoritmo A* é um algoritmo de procura <strong>informada</strong>, que faz us
 
 ![exe2](https://lh3.googleusercontent.com/mx3MI-KVVKLBJpgtI8Xr_iqyLLcNpWIppFTUFWLa4axGfqrfJGlVNKj-AO9KuTD1f75q6bVISUSlMlvugM90ET_zI1PgdTPw4e1rn7oTo-ohAUpE-tvorkF9vS8E02weirorVPS1LnS_3B5djuhMq6nwsKBX1sWh32HZPjCBQeZVt5BILN24UP8BPS-YXG9UoMYJPkW7T8DHfFBQ9sUcrNQjHQZFM2M7Za8q7CaNqpk2BVXooRvF6moT9gzT2QdE4re5sCAve7Gg7e3ve13OQy517yBZ0HlNS1Hc2U7tW-aBy_j4Li5ZRqBOQA0Yb-dh59wI5BZOFOGvJWFAM1QgqJJrxHygRNFAH4ofX7YBxgoNKo52ixU76d7Xs6-w-RU9ZhMTBvhvoPE-Lusr3MJACF0AxEoF5hNEZjsRPKtFnHTwKrxjMvzA1zjJGo6ZKQLAz59lHK8-Db3-DZBG4Ysqt3vCERhAoLX60-UDtIIf7Q0AjdHL9iHH-tjxOI2aMgAisegHPAJtiYE7-DIisxDp_Jwv6S-ujg3VcFOIEWiA9oQZw9zQWKs9EQSsaCiLF30QluZryig6EHN_HsTFhxSmAH89sVnrIlY7roZfTrgMiXG1lOv_BkEY6laAU6Jf04bWC5itBrVLNGVqoB702IjU0KcrtlnEUVX7qiGUO_1TdeUJVLNF=w393-h434-no)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDU2NDM5NywtMTc1MzcyMDk1NSwtMT
+eyJoaXN0b3J5IjpbLTY3MTQyODg2MCwtMTc1MzcyMDk1NSwtMT
 Q0ODk3Mzg2NywtNDU0NTIyNjgsLTQ1NDUyMjY4LC0yMTA3MDQy
 MjAyLC0xOTk5NzY5NDM1LDEzMzQ2NDY1MDcsNzk0MTI0NDc5LD
 IxMTYxNjQ0NTMsLTE4NzcwMjAzNzAsLTQyNzk2MzcwMl19
