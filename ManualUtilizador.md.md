@@ -18,8 +18,11 @@ Este manual tem como objectivo guiar o utilizador para que consiga proceder à u
 O jogo toma lugar num tabuleiro parecido com o do Xadrez, mas este tem 10 linhas e 10 colunas (em vez de 8x8). O objetivo do jogo é controlar uma peça com os mesmos movimentos que o cavalo do Xadrez, e visitar todas as casas do tabuleiro, cada uma com diferente pontuação. <br> O jogo do cavalo joga-se com 2 jogadores em que cada jogador possui uma peça cavalo. O Jogador 1 joga com o cavalo branco (joga primeiro) e o Jogador 2 joga com o cavalo preto. Sempre que se inicia uma partida, o tabuleiro é gerado com o valor das casas distribuído <strong>aleatoriamente</strong>. O objectivo do jogo é acumular mais pontos que o adversário.<br>
 Se a casa escolhida tiver um número com dois dígitos diferentes, por exemplo 57, então, em consequência, o número simétrico 75 é apagado do tabuleiro, tornando esta casa inacessível durante o resto do jogo<strong> - regra dos simétricos. </strong>Ou seja, nenhum cavalo pode terminar outra jogada nessa casa.<br>
 Se um cavalo for colocado numa casa com um número <strong>duplo</strong>, por exemplo 66, então qualquer outro número duplo pode ser removido e o jogador deve escolher qual em função da sua estratégia. Depois de um jogador deixar a casa para se movimentar para outra, a casa onde estava fica também inacessível para o jogo, ficando o numero da casa apagado.
-
-
+A cada jogada de um jogador repete-se a regra do simétrico ou duplo.
+Caso um dos jogadores não consiga movimentar o seu cavalo, cede a vez ao jogador oposto.
+<p>
+O jogo termina quando não for possível movimentar qualquer um dos cavalos no tabuleiro, sendo o vencedor o jogador que ganhou mais pontos.
+</p>
 <p>
 No decorrer do programa é possível visualizar todos os tabuleiros disponíveis, "correr" um jogo com um tabuleiro e algoritmo escolhidos pelo utilzador, qual a heurística a utilizar, e no final, analisar os resultados obtidos após chegar à solução.</p>
 
@@ -90,7 +93,7 @@ Fim do Jogo:
 
 ![enter image description here](https://lh3.googleusercontent.com/BTSRRdPjs8EEhpmmhZiw4VNEh6XY2Jk9JEzRL7styGx5XiVe-Um4dN1-TtvVM9yQx_TaHNmy_JLJpVDjbpvPXr09sm3F0utKpL_toQR51qs1vbKl8v37f4_HTmOokqRTu4BkhxRb1zihJPMre3VbltbLU68mbqMCHViuKdoG2dgU8ImdoFdkS10FeCWFLIYBEZmjuPfzT2E596SHU8ssUOk7Vy3lCSra8HGm_gU_nCTzIGts-TNjeu_XKLtsaDJPC1iJeARxRlXjPuQjyz2GSxs5aH5aD3dbrnfovWIH_zMndb78jwe_jozNNqxSI44fm7nCxpzCxPiYDmF0ACk-bHY6NyLjopQylihUQKc-0svuvdCvrAujRa1ekvC1t7fWu1p4MIhfUZzLC9QN1AfSrP5F0Ec6xXq1ciUj5XJWDBUoIK9-RW7l5zPItbfwxmEyDsV8JiM0URMn0aIEDNYdIWA_n2UDRhwGM04NMxWvFC-mKnANlR8WmZa81OZf0as3V6Zkw6NtVGx3QcDp5XpbrBvOVe7t4zOBB3d7op--JR-9Qeq-vkCRu4VerSz5cjFeMqSfLoh6LWMioTNZ_aYKXlDd1q9j4Sx_SoBnmOtbQcyHQv85adcjyMVH5kVWTxcZjAg6fV_VgqUUpoYSM3VYqy_M0ch1bFyOQov2tB7ZQKh3YCnw=w385-h554-no)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY4MDQ1NDAsLTE1ODA2MjM4NDcsLT
+eyJoaXN0b3J5IjpbLTEzODIwMzQxOTMsLTE1ODA2MjM4NDcsLT
 EwMjIxODMzODYsLTY3MTQyODg2MCwtMTc1MzcyMDk1NSwtMTQ0
 ODk3Mzg2NywtNDU0NTIyNjgsLTQ1NDUyMjY4LC0yMTA3MDQyMj
 AyLC0xOTk5NzY5NDM1LDEzMzQ2NDY1MDcsNzk0MTI0NDc5LDIx
